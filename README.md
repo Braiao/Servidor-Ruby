@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Servidor-Ruby
+Servidor TCP feito com ruby
+>>>>>>> 0d7b57d71a8dac9713641f0823f560be2f2197e0
